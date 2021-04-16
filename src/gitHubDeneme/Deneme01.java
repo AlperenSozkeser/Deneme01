@@ -10,6 +10,8 @@ public class Deneme01 {
 		System.out.println(a+b);
 
 		System.out.println("alperen "+(a+b));
+		System.out.println("alperen yeni branch");
+	
 	}
 
 }
